@@ -1,0 +1,12 @@
+venv/
+.env
+
+data/
+models/*.pt
+models/*.pth
+
+__pycache__/
+*.py[cod]
+
+wandb/
+logs/
